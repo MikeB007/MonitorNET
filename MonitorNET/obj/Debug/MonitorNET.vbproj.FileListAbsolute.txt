@@ -11,3 +11,15 @@ C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\bin\Debug\MonitorNET.exe.config
 C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.exe
 C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.xml
 C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.pdb
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\bin\Debug\MonitorNET.exe
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\bin\Debug\MonitorNET.pdb
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\bin\Debug\MonitorNET.xml
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.frmMonitor.resources
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.Resources.resources
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.vbproj.GenerateResource.Cache
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.vbprojResolveAssemblyReference.cache
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.frmMain.resources
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\bin\Debug\MonitorNET.exe.manifest
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\bin\Debug\MonitorNET.application
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.exe.manifest
+C:\GIT_REPOSITORY\NET\MonitorNET\MonitorNET\obj\Debug\MonitorNET.application

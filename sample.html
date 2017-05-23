@@ -1,0 +1,17 @@
+<head>
+    <script type="text/javascript">
+        function ScrollRed (alignToTop) {
+            var redText = document.getElementById ("redText");
+            redText.scrollIntoView (alignToTop);
+        }
+    </script>
+</head>
+<body>  <div style="height:200px;"></div>
+        <span id="redText" style="color:red">Red text for scroll test.</span>
+        <div style="height:200px;"></div>
+    <br /><br />
+    <button onclick="ScrollRed (true);">Scroll the red text into the top of visible area!</button>
+    <br />
+    <button onclick="ScrollRed (false);">Scroll the red text into the bottom of visible area!</button>
+</body>
+Copy Code	Print	Preview	Syntax Highlighter
